@@ -1,0 +1,37 @@
+/***======================= FONTS-SETTING =======================***/
+/***============================================================***/
+
+/* 1.helvetica ***************************************/
+/****************************************************/
+@font-face {
+	/* name font */
+	font-family: 'helvetica-400';
+	/* URL font and type */
+	src: url("../fonts/helveticaneuecyr-400.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: 400; 
+} 
+@font-face {
+	/* name font */
+	font-family: 'helvetica-900';
+	/* URL font and type */
+	src: url("../fonts/helveticaneuecyr-900.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: 900;
+}
+@font-face {
+	/* name font */
+	font-family: 'helvetica-light';
+	/* URL font and type */
+	src: url("../fonts/helveticaneuecyr-light.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: normal;
+}
+@font-face {
+	/* name font */
+	font-family: 'helvetica-bold';
+	/* URL font and type */
+	src: url("../fonts/helveticaneuecyr-bold.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: bold;
+}
